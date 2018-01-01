@@ -13,7 +13,7 @@
 
 [blendermarket](https://blendermarket.com/):3D模型交易
 
-
+[GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
