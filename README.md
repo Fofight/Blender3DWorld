@@ -9,6 +9,8 @@
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
 
+[blender-chemicals](https://github.com/patrickfuller/blender-chemicals):3D分子模型
+
 
 
 
