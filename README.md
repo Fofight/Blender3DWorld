@@ -11,7 +11,7 @@
 
 [blender-chemicals](https://github.com/patrickfuller/blender-chemicals):3D分子模型
 
-[blendermarket](https://blendermarket.com/):blender模型交易
+[blendermarket](https://blendermarket.com/):3D模型交易
 
 
 
