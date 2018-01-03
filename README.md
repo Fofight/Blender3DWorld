@@ -95,5 +95,6 @@
 [blender.stackexchange](https://blender.stackexchange.com/)、
 [scivis](http://www.scivis.it/images/stories/blenderconf09paper.pdf)、
 [bio.as.uky](https://bio.as.uky.edu/playing-3d-blender)、
+[](http://www.kino3d.com/forum/viewforum.php?f=21&sid=64f478045c4dc71274308d2fd7544782)、
 
 
