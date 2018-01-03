@@ -16,7 +16,10 @@
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
 [blender-models](http://www.blender-models.com/):blender3D模型
+
 [blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
+
+[molecular-blender](https://github.com/smparker/molecular-blender):.xyz分子文件的导入插件
 
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
