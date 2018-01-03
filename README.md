@@ -48,6 +48,10 @@
 
 [blender-python-setup](https://github.com/lmmx/devnotes/wiki/Blender-Python-setup)blender和python之间的设置
 
+[blender-vr](https://github.com/dfelinto/blender-vr)
+
+[virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport)
+
 ---------------
 
 ## Resources
@@ -70,6 +74,27 @@
 [graphicdesign](https://graphicdesign.stackexchange.com/questions/19794/how-should-i-get-started-if-i-want-to-work-as-a-3d-designer-for-games):A question on the Graphic Design Stack exchange about how to get started making 3D for games
 
 -------------------
+
+## VR
+[uploadvr](https://uploadvr.com/blenders-open-source-software-just-got-makeshift-vr-support/)
+
+[blenderartists](https://blenderartists.org/forum/showthread.php?419131-Blender-VR-Support-test-build)
+
+[blendernation](https://www.blendernation.com/2016/10/03/create-3d-360-degree-vr-blender-2-78/)
+
+[dflinto-blender-vr](https://github.com/dfelinto/blender-vr)、[dfelinto-virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport)
+
+[google-expeditions-education-in-vr](https://www.blender.org/user-stories/google-expeditions-education-in-vr/)
+
+[blendervr](https://blendervr.limsi.fr/doku.php)
+
+
+
+-----------------
+
+## 3D Print
+
+---------------------
 
 ## PDB 
 [wwpdb](http://www.wwpdb.org/)、
