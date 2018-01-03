@@ -1,12 +1,11 @@
 [![blender](https://download.blender.org/institute/logos/blender-plain.png)](https://www.blender.org)
 # Blender3DWorld
 
-### [wiki.blender](https://wiki.blender.org/)
-
 基于blender 引擎下的3D世界，内容包括但不局限于3D打印，3D建模，3D游戏，3D地图，3D动画，VR，AR
 
+### [wiki.blender](https://wiki.blender.org/)
 
-### GITHUB
+## GITHUB
 [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator):随机生成3D飞船模型的脚本
 
 [procedural_city_generation](https://github.com/josauder/procedural_city_generation):生成城市的程序
@@ -27,7 +26,7 @@
 
 [blender-python-setup](https://github.com/lmmx/devnotes/wiki/Blender-Python-setup)blender和python之间的设置
 
-# PDB 
+## PDB 
 [wwpdb](http://www.wwpdb.org/)、
 [rcsb](http://www.rcsb.org/pdb/home/home.do)、
 [wiki.blender](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/PDB)
@@ -35,7 +34,7 @@
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
 
-# blender相关网站网址：
+## blender相关网站网址：
 [blender.freemovies](http://blender.freemovies.co.uk/chemistry/)、
 [blend4web](https://www.blend4web.com/en/)、
 [hartlegroup](http://blog.hartleygroup.org/2015/01/31/blender-for-chemists/)、
