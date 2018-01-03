@@ -33,7 +33,8 @@
 ## PDB 
 [wwpdb](http://www.wwpdb.org/)、
 [rcsb](http://www.rcsb.org/pdb/home/home.do)、
-[wiki.blender](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/PDB)
+[wiki.blender](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/PDB)、
+[simtk](https://simtk.org/projects/pdb2blend)
 
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
@@ -49,5 +50,6 @@
 [blender-chemicals](https://patrickfuller.github.io/molecules-from-smiles-molfiles-in-blender/)、
 [biochemistri](http://biochemistri.es/post/109762930906/trying-out-scott-hartleys-blmol-on-sunday)、
 [pyroevil](http://pyroevil.com/molecular-script-docs/)、
+[freelancingscience](https://freelancingscience.com/2007/10/17/blender-in-visualization-of-molecules/)
 
 
