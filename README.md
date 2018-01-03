@@ -21,11 +21,15 @@
 
 [molecular-blender](https://github.com/smparker/molecular-blender):.xyz分子文件的导入插件
 
+# PDB 
+[wwpdb](http://www.wwpdb.org/)、
+[rcsb](http://www.rcsb.org/pdb/home/home.do)
+
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
 
 # blender相关网站网址：
-[](http://blender.freemovies.co.uk/)
-[](https://www.blend4web.com/en/)
-[](http://blog.hartleygroup.org/)
+[blender.freemovies](http://blender.freemovies.co.uk/chemistry/)
+[blend4web](https://www.blend4web.com/en/)
+[hartlegroup](http://blog.hartleygroup.org/)
 
