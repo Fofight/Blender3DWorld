@@ -29,7 +29,7 @@
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
 
 # blender相关网站网址：
-[blender.freemovies](http://blender.freemovies.co.uk/chemistry/)
-[blend4web](https://www.blend4web.com/en/)
-[hartlegroup](http://blog.hartleygroup.org/)
+[blender.freemovies](http://blender.freemovies.co.uk/chemistry/)、
+[blend4web](https://www.blend4web.com/en/)、
+[hartlegroup](http://blog.hartleygroup.org/)、
 
