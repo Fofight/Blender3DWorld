@@ -169,6 +169,7 @@
 [kino3d](http://www.kino3d.com/forum/viewforum.php?f=21&sid=64f478045c4dc71274308d2fd7544782)、
 [graphicall](http://graphicall.org/)、
 [pymol](https://pymol.org/2/)、
-[epmv](http://epmv.scripps.edu/)
+[epmv](http://epmv.scripps.edu/)、
+[apricot](https://apricot.blender.org/)、
 
 
