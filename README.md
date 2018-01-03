@@ -76,6 +76,8 @@
 [rcsb](http://www.rcsb.org/pdb/home/home.do)、
 [wiki.blender](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/PDB)、
 [simtk](https://simtk.org/projects/pdb2blend)、
+[Swiss PDB Viewer](https://spdbv.vital-it.ch/)、
+[proteopedia](http://proteopedia.org/wiki/index.php/Main_Page)、
 
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
@@ -95,6 +97,8 @@
 [blender.stackexchange](https://blender.stackexchange.com/)、
 [scivis](http://www.scivis.it/images/stories/blenderconf09paper.pdf)、
 [bio.as.uky](https://bio.as.uky.edu/playing-3d-blender)、
-[](http://www.kino3d.com/forum/viewforum.php?f=21&sid=64f478045c4dc71274308d2fd7544782)、
+[kino3d](http://www.kino3d.com/forum/viewforum.php?f=21&sid=64f478045c4dc71274308d2fd7544782)、
+[graphicall](http://graphicall.org/)、
+[pymol](https://pymol.org/2/)、
 
 
