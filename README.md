@@ -124,6 +124,19 @@
 
 [sculpteo](https://www.sculpteo.com/en/tutorial/prepare-your-model-3d-printing-blender/)
 
+------------------
+
+## world map
+[blenderguru](https://www.blenderguru.com/tutorials/earth-cycles)
+
+[gappyfacets](http://gappyfacets.com/2014/09/17/3d-world-map-d3-js-blender-via-svg/)
+
+[viibe.me](http://viibe.me/blender-world-map-2.html)
+
+[vecteezy](https://www.vecteezy.com/vector-art/169563-vector-3d-global-world-map)
+
+[blender.stackexchange](https://blender.stackexchange.com/questions/97206/create-3d-world-map-from-svg-file)
+
 
 ---------------------
 
