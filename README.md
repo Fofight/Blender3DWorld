@@ -52,6 +52,8 @@
 
 [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport)
 
+[ARTKBlender](https://github.com/AshSidney/ARTKBlender)
+
 ---------------
 
 ## Resources
@@ -87,6 +89,23 @@
 [google-expeditions-education-in-vr](https://www.blender.org/user-stories/google-expeditions-education-in-vr/)
 
 [blendervr](https://blendervr.limsi.fr/doku.php)
+
+---------------------
+
+## AR
+[blender forum](https://www.blender.org/forum/viewtopic.php?t=17160)
+
+[ARTKBlender](https://github.com/AshSidney/ARTKBlender)
+
+[blendernation](https://www.blendernation.com/2016/10/10/augmented-reality-product-made-blender/)
+
+[blenderartists](https://blenderartists.org/forum/showthread.php?259191-Blender-Augmented-Reality-(AR)-Project)
+
+[lendersushi.blogspot](http://blendersushi.blogspot.com/2017/11/ar-creating-face-augmented-reality.h)
+
+[forums.cgsociety](http://forums.cgsociety.org/showthread.php?t=1122888)
+
+[artoolkit](https://svn.code.sf.net/p/artoolkit/code/trunk/)
 
 
 
@@ -137,5 +156,6 @@
 [kino3d](http://www.kino3d.com/forum/viewforum.php?f=21&sid=64f478045c4dc71274308d2fd7544782)、
 [graphicall](http://graphicall.org/)、
 [pymol](https://pymol.org/2/)、
+[epmv](http://epmv.scripps.edu/)
 
 
