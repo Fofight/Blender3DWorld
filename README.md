@@ -15,6 +15,8 @@
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
+[blender-models](http://www.blender-models.com/):blender3D模型
+
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
 
