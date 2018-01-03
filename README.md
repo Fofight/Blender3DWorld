@@ -16,7 +16,13 @@
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
 [blender-models](http://www.blender-models.com/):blender3D模型
+[blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
 
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
+
+# blender相关网站网址：
+[](http://blender.freemovies.co.uk/)
+[](https://www.blend4web.com/en/)
+[](http://blog.hartleygroup.org/)
 
