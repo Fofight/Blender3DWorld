@@ -93,6 +93,18 @@
 -----------------
 
 ## 3D Print
+[cloud.blender](https://cloud.blender.org/p/3d-printing/)
+
+[3dprinting](https://3dprinting.com/blender-tutorials/)
+
+[i.materialise](https://i.materialise.com/blog/3d-printing-with-blender/)
+
+[opensource](https://opensource.com/life/16/6/how-get-started-3d-printing-blender)
+
+[all3dp](https://all3dp.com/blender-3d-printing-tutorial/)
+
+[sculpteo](https://www.sculpteo.com/en/tutorial/prepare-your-model-3d-printing-blender/)
+
 
 ---------------------
 
