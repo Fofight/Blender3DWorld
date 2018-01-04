@@ -34,13 +34,9 @@
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
 
-[blender-chemicals](https://github.com/patrickfuller/blender-chemicals):3D分子模型
-
-[blendermarket](https://blendermarket.com/):3D模型交易
+[blender-chemicals](https://github.com/patrickfuller/blender-chemicals):- Imports chemicals into blender with open babel.
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
-
-[blender-models](http://www.blender-models.com/):blender3D模型
 
 [blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
 
@@ -56,13 +52,14 @@
 
 [ARTKBlender](https://github.com/AshSidney/ARTKBlender)
 
+[blender_nif_plugin](https://github.com/niftools/blender_nif_plugin):The Blender NIF plugin enables Blender to import and export NIF files
+
+[ImportLDraw](https://github.com/TobyLobster/ImportLDraw):A Blender™ plug-in for importing LDraw™ file format models and parts.
+
 [blender-bam](1.1.7)            - Bam Asset Manager
-
-
 
 [generalized-blender]()    - Python implementation of generalized model blender with K fold CV
 
-[blender-chemicals](0.2.1)      - Imports chemicals into blender with open babel.
 
 [BlendSCAD](20170429.0.0.2rc0)  - OpenSCAD-ify Blender
 
@@ -207,5 +204,7 @@
 [pymol](https://pymol.org/2/)、
 [epmv](http://epmv.scripps.edu/)、
 [apricot](https://apricot.blender.org/)、
+[blendermarket](https://blendermarket.com/):3D模型交易、
+[blender-models](http://www.blender-models.com/):blender3D模型
 
 
