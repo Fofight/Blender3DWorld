@@ -1,6 +1,5 @@
 [![blender](https://download.blender.org/institute/logos/blender-plain.png)](https://www.blender.org)
-
-<img src="https://avatars2.githubusercontent.com/u/590956?v=3&s=200" align="right" />
+[<img src="https://avatars2.githubusercontent.com/u/590956?v=3&s=200"  />](http://www.panda3d.org/)
 
 # Blender3DWorld
 
