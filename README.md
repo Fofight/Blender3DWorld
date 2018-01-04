@@ -48,11 +48,43 @@
 
 [blender-python-setup](https://github.com/lmmx/devnotes/wiki/Blender-Python-setup)blender和python之间的设置
 
+[blender-file](https://github.com/dfelinto/blender-file):Blender File
+
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
 [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport)
 
 [ARTKBlender](https://github.com/AshSidney/ARTKBlender)
+
+[blender-bam](1.1.7)            - Bam Asset Manager
+
+
+
+[generalized-blender]()    - Python implementation of generalized model blender with K fold CV
+
+[blender-chemicals](0.2.1)      - Imports chemicals into blender with open babel.
+
+[BlendSCAD](20170429.0.0.2rc0)  - OpenSCAD-ify Blender
+
+[bpy_lambda](1.0)               - A compiled binary of Blender-as-a-Python-Module (bpy) for use in AWS Lambda
+
+[ccRender](0.11.1a2)            - Cloud-based Blender rendering addon
+
+[fitsblender](0.2.3)            - Aggregate values in FITS headers
+
+[insight](0.140514)             - Make streaming of your Blender cameras
+
+[kitchen_blender](0.3.1)        - Worker node for the Kitchen Blender render farm
+
+[multiblend](1.4)               - Distributed rendering with Blender
+
+[SPE](0.8.3.c)                  - Python IDE with Blender, Kiki, PyChecker,Remote debugger, Uml and wxGlade support
+
+[tinyblend](1.0.1)              - A tiny blender file loader
+
+[zerogravity](0.2.0)            - A python3 polygon mesh to game render library using dokerized blender 3D creation software as backend.
+
+
 
 ---------------
 
@@ -147,6 +179,10 @@
 [simtk](https://simtk.org/projects/pdb2blend)、
 [Swiss PDB Viewer](https://spdbv.vital-it.ch/)、
 [proteopedia](http://proteopedia.org/wiki/index.php/Main_Page)、
+
+-------------------
+
+
 
 
 ![](https://download.blender.org/institute/logos/blender_icon_source.svg)
