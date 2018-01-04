@@ -1,5 +1,7 @@
 [![blender](https://download.blender.org/institute/logos/blender-plain.png)](https://www.blender.org)
-[![](http://www.panda3d.org/images/panda-logo-2.png)](http://www.panda3d.org/)
+
+<img src="https://avatars2.githubusercontent.com/u/590956?v=3&s=200" align="right" />
+
 # Blender3DWorld
 
 基于blender 引擎下的3D世界，内容包括但不局限于3D打印，3D建模，3D游戏，3D地图，3D动画，VR，AR
