@@ -157,6 +157,8 @@
 
 [sculpteo](https://www.sculpteo.com/en/tutorial/prepare-your-model-3d-printing-blender/)
 
+[3D-print-library](https://github.com/linyuxuanlin/3D-print-library)
+
 ------------------
 
 ## world map
