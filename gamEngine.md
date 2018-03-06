@@ -24,7 +24,7 @@
 
 [Blender]
 
-[Delta3d]
+[Delta3d](http://delta3d.io/)
 
 [DXFramework]
 
