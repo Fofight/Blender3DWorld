@@ -24,7 +24,7 @@
 
 [Blender]
 
-[Delta3d](http://delta3d.io/)
+[Delta3d](http://delta3d.io/).[github](https://github.com/delta3d/delta3d/tree/master/delta3d)
 
 [DXFramework]
 
