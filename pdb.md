@@ -7,5 +7,5 @@ blender中import pdb 文件功能插件网址[Import-Export/PDB](https://wiki.bl
 
 [Github Keyword](https://github.com/search?l=Python&o=desc&q=pdb&s=stars&type=Repositories&utf8=%E2%9C%93
 
-http://blog.sciencenet.cn/blog-548663-895916.html
+[格式说明参考](http://jerkwin.github.io/2015/06/05/PDB%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F%E8%AF%B4%E6%98%8E/)
 
