@@ -22,7 +22,9 @@ blender中import pdb 文件功能插件网址[Import-Export/PDB](https://wiki.bl
 
 [PDB原子记录官方文档](http://www.wwpdb.org/documentation/file-format-content/format33/sect9.html)
 
-[github类似工作](https://github.com/bigwiv/Biopython-cn/blob/master/cn/chr11.rst)
+[Github类似工作](https://github.com/bigwiv/Biopython-cn/blob/master/cn/chr11.rst)
+
+[Introduction to Protein Data Bank Format](http://www.cgl.ucsf.edu/chimera/docs/UsersGuide//tutorials/framepdbintro.html)
 
 分子模型引入游戏用作主要的模型必将是一场革命，纵观现在的游戏产业，普遍的3D模型给我的感觉就如充气的娃娃，撑起华丽酷炫的外表的却是空气，太虚。而分子模型就如配有优秀引擎的机器人，两种感觉是截然不同的。而建模的过程又像是常规机器学习和深度学习的比较，一个是通过大数据（经验）的堆彻，另一是规则的学习（自然规则）。一个是艺术的创作，另一个是科研的展示
 
