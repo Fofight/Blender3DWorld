@@ -22,5 +22,7 @@ blender中import pdb 文件功能插件网址[Import-Export/PDB](https://wiki.bl
 
 [PDB原子记录官方文档](http://www.wwpdb.org/documentation/file-format-content/format33/sect9.html)
 
+分子模型引入游戏用作主要的模型必将是一场革命，纵观现在的游戏产业，普遍的3D模型给我的感觉就如充气的娃娃，撑起华丽酷炫的外表的却是空气，太虚。而分子模型就如配有优秀引擎的机器人，两种感觉是截然不同的。
+
 
 
