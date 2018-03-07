@@ -34,15 +34,17 @@ blender中import pdb 文件功能插件网址[Import-Export/PDB](https://wiki.bl
 
 Chem 3D
 
-PyMOL
+PyMOL-
 
 Maestro
 
 Mercury
 
-Avogadro
+Avogadro-
 
 Chimera
 
-Diamond
+Diamond-
+
+[maya扩展](http://www.molecularmovies.com/toolkit/)
 
