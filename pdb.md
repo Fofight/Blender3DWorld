@@ -1,3 +1,5 @@
+PDB(Protein Data Bank)是一种标准文件格式, 其中包含原子的坐标等信息
+
 #这是关于.pdb文件在blender展示的汇总
 
 ![](https://wiki.blender.org/skins/naiad/images/blender_logo.png)
