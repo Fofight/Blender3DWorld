@@ -217,4 +217,14 @@
 
 [RenderPipeline](https://github.com/tobspr/RenderPipeline)
 
+https://github.com/tobspr/P3DModuleBuilder
+
+https://github.com/tobspr/Panda3D-Bam-Exporter
+
+https://github.com/tobspr/RenderPipeline-Tutorials
+
+https://github.com/tobspr/P3D-ECS
+
+https://github.com/tobspr/RenderPipeline-Samples
+
 
