@@ -227,4 +227,6 @@ https://github.com/tobspr/P3D-ECS
 
 https://github.com/tobspr/RenderPipeline-Samples
 
+https://github.com/wolfgangp/panda3d_bullet_samples
+
 
