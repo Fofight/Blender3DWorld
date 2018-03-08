@@ -213,6 +213,7 @@
 [blendermarket](https://blendermarket.com/):3D模型交易、
 [blender-models](http://www.blender-models.com/):blender3D模型、
 [blenderget](http://www.blenderget.com/blender-and-monument-valley/)
+[steam](http://store.steampowered.com/app/365670/Blender/)
 
 
 ## panda3d
