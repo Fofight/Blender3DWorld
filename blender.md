@@ -7,34 +7,15 @@ blender插件安装
 
 3. [BlenderGIS](https://github.com/domlysz/BlenderGIS)：在blender上实现GIS
 
-4. [sapling tree gen](https://github.com/abpy/improved-sapling-tree-generator)：一个树生成插件，支持骨骼动画(系统自带，需要开启)
+4. [sapling tree gen](https://github.com/abpy/improved-sapling-tree-generator)：一个树生成插件，支持骨骼动画(自带，需要开启)
+
 5. [quicktree](https://github.com/wolfgangp/quicktree)：
 
-animation nodes 一个动画节点插件
+6. [ivyGen](https://github.com/ivygen/ivygen)：一个爬藤类生成插件[自带，需要开启]
 
-sverchok 一个节点参数化建模插件
-
-Archimesh 一个室内建筑插件
+7. [Archimesh]()：一个室内建筑插件
 
 
-LvyGen 一个爬藤类生成插件
 
-PBR materials cycles材质库插件
-
-pro lighting studio 专业灯光插件
-
-unfold_transition 可以把模型一个个面展开的动画插件
-
-molecular 分子粒子插件，可以让粒子粘连打散
-
-rigid_bodys_gen 可以把骨骼当刚体用的插件 
-
-RetopoFlow 拓扑插件
-
-Bsurfaces
-
-Node Wrangler
-
-IK-Particles Link
 
 
