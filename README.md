@@ -213,4 +213,8 @@
 [blendermarket](https://blendermarket.com/):3D模型交易、
 [blender-models](http://www.blender-models.com/):blender3D模型
 
+## panda3d
+
+[RenderPipeline](https://github.com/tobspr/RenderPipeline)
+
 
