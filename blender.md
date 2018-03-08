@@ -15,7 +15,4 @@ blender插件安装
 
 7. [Archimesh]()：一个室内建筑插件
 
-
-
-
-
+8. [highspeedracer](https://github.com/eliemichel/highspeedracer)：Online racing game using Blender Game Engine 
