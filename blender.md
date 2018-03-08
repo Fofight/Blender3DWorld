@@ -7,13 +7,14 @@ blender插件安装
 
 3. [BlenderGIS](https://github.com/domlysz/BlenderGIS)：在blender上实现GIS
 
+4.[sapling tree gen](https://github.com/abpy/improved-sapling-tree-generator)：一个树生成插件，支持骨骼动画[系统自带，需要开启]
+
 animation nodes 一个动画节点插件
 
 sverchok 一个节点参数化建模插件
 
 Archimesh 一个室内建筑插件
 
-sapling tree gen 一个树生成插件，支持骨骼动画
 
 LvyGen 一个爬藤类生成插件
 
