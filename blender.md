@@ -7,3 +7,26 @@ blender插件安装
 
 3. [BlenderGIS](https://github.com/domlysz/BlenderGIS)：在blender上实现GIS
 
+animation nodes 一个动画节点插件
+
+sverchok 一个节点参数化建模插件
+
+Archimesh 一个室内建筑插件
+
+sapling tree gen 一个树生成插件，支持骨骼动画
+
+LvyGen 一个爬藤类生成插件
+
+PBR materials cycles材质库插件
+
+pro lighting studio 专业灯光插件
+
+unfold_transition 可以把模型一个个面展开的动画插件
+
+molecular 分子粒子插件，可以让粒子粘连打散
+
+rigid_bodys_gen 可以把骨骼当刚体用的插件 
+
+RetopoFlow 拓扑插件
+
+
