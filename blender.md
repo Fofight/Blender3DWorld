@@ -29,4 +29,10 @@ rigid_bodys_gen 可以把骨骼当刚体用的插件
 
 RetopoFlow 拓扑插件
 
+Bsurfaces
+
+Node Wrangler
+
+IK-Particles Link
+
 
