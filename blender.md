@@ -9,6 +9,7 @@ blender插件安装
 
 4. [sapling tree gen](https://github.com/abpy/improved-sapling-tree-generator)：一个树生成插件，支持骨骼动画(系统自带，需要开启)
 5. [quicktree](https://github.com/wolfgangp/quicktree)：
+
 animation nodes 一个动画节点插件
 
 sverchok 一个节点参数化建模插件
