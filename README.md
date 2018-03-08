@@ -52,6 +52,10 @@
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
+[blender-graphs](https://github.com/patrickfuller/blender-graphs)
+
+[blender-image-pixels](https://github.com/patrickfuller/blender-image-pixels)
+
 [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport)
 
 [ARTKBlender](https://github.com/AshSidney/ARTKBlender)
