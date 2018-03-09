@@ -40,3 +40,14 @@
 
 
 十大游戏引擎[link](http://blog.csdn.net/qq_17007915/article/details/77734324?locationNum=9&fps=1)
+
+
+
+# LINUX 可用gamEngine
+
+
+[Blender](https://www.blender.org/)
+
+[unity](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/)
+
+[Panda3D](http://www.panda3d.org/).[github](https://github.com/panda3d/panda3d)
