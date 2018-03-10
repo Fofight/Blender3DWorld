@@ -1,6 +1,8 @@
 这是关于blender游戏引擎的探索
 
-[![Blender](misc/Blender_logo.png)](http://www.blender.org/)
+[![Blender](https://github.com/KhronosGroup/glTF-Blender-Exporter/blob/master/misc/Blender_logo.png?raw=true)](http://www.blender.org/)
+
+
 
 [English](https://docs.blender.org/manual/en/dev/game_engine/index.html)--[中文](https://docs.blender.org/manual/zh-hans/dev/game_engine/introduction.html)
 
