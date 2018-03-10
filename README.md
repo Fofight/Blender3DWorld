@@ -54,6 +54,8 @@
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
+[bge-networking](https://github.com/Moguri/bge-networking):A repo to test out a Python module for BGE networking. 
+
 [conceptparticles](https://github.com/Kupoman/conceptparticles):A demonstration of how particles can be done in the Blender Game Engine using PyOpenGL
 
 [bgui](https://github.com/Moguri/bgui):Python GUI library for the Blender Game Engine 
@@ -75,6 +77,8 @@
 [BlenderThemes](https://github.com/mikepan/BlenderThemes):A collection of themes I've made for Blender 
 
 [sprycle](https://github.com/GoranM/sprycle): A sprite animation cycle utility 
+
+[BlenderPanda](https://github.com/Moguri/BlenderPanda):Blender addon for integrating Panda3D 
 
 [nlu](https://github.com/GoranM/nlu):A Python utilities package for the Blender Game Engine 
 
@@ -302,6 +306,8 @@ https://github.com/tobspr/P3D-ECS
 https://github.com/tobspr/RenderPipeline-Samples
 
 https://github.com/wolfgangp/panda3d_bullet_samples
+
+[pman](https://github.com/Moguri/pman):A Python package to help bootstrap and manage Panda3D applications 
 
 [![相似项目](https://github.com/alabd14313/awesome-BGE/blob/master/Images/Besmellah.png?raw=true)](https://github.com/alabd14313/awesome-BGE/)
 
