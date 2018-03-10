@@ -56,6 +56,10 @@
 
 [glrawd](https://github.com/GoranM/glrawd):A Blender scene exporter, which provides geometry data for OpenGL applications, in a convenient binary format. 
 
+[BlenderGEResourceKit](https://github.com/mikepan/BlenderGEResourceKit):A collection of ready-to-use components for the Blender Game Engine
+
+[BlenderThemes](https://github.com/mikepan/BlenderThemes):A collection of themes I've made for Blender 
+
 [sprycle](https://github.com/GoranM/sprycle): A sprite animation cycle utility 
 
 [nlu](https://github.com/GoranM/nlu):A Python utilities package for the Blender Game Engine 
