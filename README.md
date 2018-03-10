@@ -54,6 +54,10 @@
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
+[bgui](https://github.com/Moguri/bgui):Python GUI library for the Blender Game Engine 
+
+[AssetGen](https://github.com/Linko-3D/AssetGen):Game art tools for Blender 
+
 [Blender4Panda-plugin](https://github.com/09th/Blender4Panda-plugin):Plugin for Blender, allowing to edit/export scenes for Panda3D 
 
 [Blender4Panda-loader](https://github.com/09th/Blender4Panda-loader):Load scene into Panda3D previously exported from Blender 
