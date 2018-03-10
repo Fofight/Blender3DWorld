@@ -68,6 +68,8 @@
 
 [testfiles](https://github.com/UPBGE/testfiles)
 
+[prototype-lithium](https://github.com/Moguri/prototype-lithium):Project to prototype a character controller for action/adventure type games 
+
 [bdx-test-game](https://github.com/GoranM/bdx-test-game):A small/simple game developed in a BDX tutorial series. 
 
 [glrawd](https://github.com/GoranM/glrawd):A Blender scene exporter, which provides geometry data for OpenGL applications, in a convenient binary format. 
@@ -77,6 +79,13 @@
 [BlenderThemes](https://github.com/mikepan/BlenderThemes):A collection of themes I've made for Blender 
 
 [sprycle](https://github.com/GoranM/sprycle): A sprite animation cycle utility 
+
+[BlenderRealtimeEngineAddon](https://github.com/Kupoman/BlenderRealtimeEngineAddon):An addon to allow external real time engines (e.g. game engines) to use Blender as an editor and allow for closer integration. 
+
+[Moguri](https://github.com/Moguri/blender): Moguri Blender development work. 
+
+[blendergltf](https://github.com/Kupoman/blendergltf):A glTF exporter for Blender 
+
 
 [BlenderPanda](https://github.com/Moguri/BlenderPanda):Blender addon for integrating Panda3D 
 
@@ -90,9 +99,15 @@
 
 [blender-image-pixels](https://github.com/patrickfuller/blender-image-pixels)
 
+[io_scene_gltf](https://github.com/Kupoman/io_scene_gltf):A glTF exporter addon for Blender.
+
 [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport)
 
 [ARTKBlender](https://github.com/AshSidney/ARTKBlender)
+
+[FafnirBlender](https://github.com/Kupoman/FafnirBlender):A prototype hybrid ray tracing and rasterization renderer that makes use of Blender to display scenes. 
+
+[BlenderPandaAddon](https://github.com/Kupoman/BlenderPandaAddon):A real time engine addon making use of the open source Panda3D engine. 
 
 [BlenderRealtimeEngineAddon](https://github.com/Kupoman/BlenderRealtimeEngineAddon):An addon to allow external real time engines (e.g. game engines) to use Blender as an editor and allow for closer integration. 
 
@@ -103,7 +118,6 @@
 [blender-bam](1.1.7)            - Bam Asset Manager
 
 [generalized-blender]()    - Python implementation of generalized model blender with K fold CV
-
 
 [BlendSCAD](20170429.0.0.2rc0)  - OpenSCAD-ify Blender
 
@@ -305,9 +319,27 @@ https://github.com/tobspr/P3D-ECS
 
 https://github.com/tobspr/RenderPipeline-Samples
 
+https://moguri.github.io/panda-sphinx/
+
+https://github.com/Moguri/panda-sphinx
+
+[cefpanda](https://github.com/Moguri/cefpanda):Python module for using CEFPython with Panda3D 
+
 https://github.com/wolfgangp/panda3d_bullet_samples
 
+[FafnirPanda](https://github.com/Kupoman/FafnirPanda):Bringing my ray tracing research to Panda3D. 
+
+[fafnir](https://github.com/Kupoman/fafnir):Panda3D Python module for hybrid rendering
+
+[panda-bamboo](https://github.com/Moguri/panda-bamboo):A library to quickly create and prototype game mechanics in Panda3D
+
+[panda3d_inputmapper](https://github.com/Moguri/panda3d_inputmapper):Simple input mapper to use with Panda3D 
+
+[buildbot-panda3d](https://github.com/panda3d/buildbot-panda3d):Buildbot configuration for buildbot.panda3d.org 
+
 [pman](https://github.com/Moguri/pman):A Python package to help bootstrap and manage Panda3D applications 
+
+[panda3d-thirdparty](https://github.com/rdb/panda3d-thirdparty):Scripts to build the thirdparty packages for Panda3D
 
 [![相似项目](https://github.com/alabd14313/awesome-BGE/blob/master/Images/Besmellah.png?raw=true)](https://github.com/alabd14313/awesome-BGE/)
 
