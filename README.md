@@ -49,9 +49,13 @@
 
 [blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
 
+[blender-smooth-slides](https://github.com/kiniou/blender-smooth-slides)A set of scripts and templates to transform regular OpenDocument Presentation into sexy presentation with Blender Game Engine.
+
 [myou-blender-add-on](https://github.com/myou-engine/myou-blender-add-on):Myou Blender Plugin allows you to export Blender scenes, meshes, materials (GLSL), textures and animations to be used in your Myou Engine project. 
 
 [BlenderCave](https://github.com/jgascon/BlenderCave): Blender Cave are some extensions to run Blender Game Engine in a multiscreen system (CAVE) 
+
+[blender-nds-exporter](https://github.com/kiniou/blender-nds-exporter):Blender script plugin to export models into Nintendo DS Binary CallLists
 
 [Selective-Unhide](https://github.com/RayMairlot/Selective-Unhide): Replaces the default unhide operator in blender with a menu, allowing selective unhiding. 
 
