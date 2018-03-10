@@ -44,6 +44,16 @@
 
 [blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
 
+[Move-Render-Layers](https://github.com/RayMairlot/Move-Render-Layers):Allows re-arranging render layers in Blender 3D 
+
+[Timecode](https://github.com/RayMairlot/Timecode):Allows viewing and setting the current frame in Blender 3D via a timecode 
+
+[UV-Rotate-Shortcuts](https://github.com/RayMairlot/UV-Rotate-Shortcuts):Rotate UV selection by 90 degrees clockwise or counter-clockwise 
+
+[Animated-Render-Border](https://github.com/RayMairlot/Animated-Render-Border):Lets the border render box automatically track a mesh object or group of objects for an animation 
+
+[Batch-Render-Tools](https://github.com/RayMairlot/Batch-Render-Tools):A series of tools to help with doing batch renders in Blender
+
 [YABEE](https://github.com/09th/YABEE)Export models from the Blender to Panda3D game engine
 
 [molecular-blender](https://github.com/smparker/molecular-blender):.xyz分子文件的导入插件
