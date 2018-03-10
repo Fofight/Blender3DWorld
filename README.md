@@ -54,6 +54,8 @@
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
+[conceptparticles](https://github.com/Kupoman/conceptparticles):A demonstration of how particles can be done in the Blender Game Engine using PyOpenGL
+
 [bgui](https://github.com/Moguri/bgui):Python GUI library for the Blender Game Engine 
 
 [AssetGen](https://github.com/Linko-3D/AssetGen):Game art tools for Blender 
@@ -88,6 +90,7 @@
 
 [ARTKBlender](https://github.com/AshSidney/ARTKBlender)
 
+[BlenderRealtimeEngineAddon](https://github.com/Kupoman/BlenderRealtimeEngineAddon):An addon to allow external real time engines (e.g. game engines) to use Blender as an editor and allow for closer integration. 
 
 [blender_nif_plugin](https://github.com/niftools/blender_nif_plugin):The Blender NIF plugin enables Blender to import and export NIF files
 
