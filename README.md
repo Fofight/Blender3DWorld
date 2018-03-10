@@ -48,6 +48,8 @@
 
 [molecular-blender](https://github.com/smparker/molecular-blender):.xyz分子文件的导入插件
 
+[playcanvas-blender-tools](https://github.com/sdfgeoff/playcanvas-blender-tools):Tools for going from blender to playcanvas game engine 
+
 [blender-python-setup](https://github.com/lmmx/devnotes/wiki/Blender-Python-setup)blender和python之间的设置
 
 [blender-file](https://github.com/dfelinto/blender-file):Blender File
