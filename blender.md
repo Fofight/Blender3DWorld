@@ -29,4 +29,4 @@ blender插件安装
 
 14. [barnstormer](https://github.com/Moguri/barnstormer):A BGE game for BGMC 9 
 
-15. chemical element:[prototype-nitrogen](https://github.com/Moguri/prototype-nitrogen)、[prototype-lithium](https://github.com/Moguri/prototype-lithium)、[prototype-hydrogen](https://github.com/Moguri/prototype-hydrogen)、
+15. chemical element:[prototype-nitrogen](https://github.com/Moguri/prototype-nitrogen)、[prototype-lithium](https://github.com/Moguri/prototype-lithium)、[prototype-hydrogen](https://github.com/Moguri/prototype-hydrogen)、[PrototypeHydrogen](https://github.com/Kupoman/PrototypeHydrogen)
