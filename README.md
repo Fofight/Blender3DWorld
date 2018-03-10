@@ -38,6 +38,8 @@
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
 
+[BGEAssets](https://github.com/ccbytes/BGEAssets):Collection of assets for Blender Game Engine 
+
 [myou-engine](https://github.com/myou-engine/myou-engine): Myou is a game engine for web, it features an editor based on Blender 
 
 
