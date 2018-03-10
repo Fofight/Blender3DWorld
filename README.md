@@ -52,6 +52,14 @@
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
+[bdx-test-game](https://github.com/GoranM/bdx-test-game):A small/simple game developed in a BDX tutorial series. 
+
+[glrawd](https://github.com/GoranM/glrawd):A Blender scene exporter, which provides geometry data for OpenGL applications, in a convenient binary format. 
+
+[sprycle](https://github.com/GoranM/sprycle): A sprite animation cycle utility 
+
+[nlu](https://github.com/GoranM/nlu):A Python utilities package for the Blender Game Engine 
+
 [blender_chromium](https://github.com/armory3d/blender_chromium) Chromium embedded in Blender to utilize V8 & WebGL.
 
 [blender-graphs](https://github.com/patrickfuller/blender-graphs)
@@ -117,6 +125,8 @@
 [chess_example](https://github.com/armory3d/chess_example)
 
 [armorpaint](https://github.com/armory3d/armorpaint):3D PBR Texture Painting
+
+[bdx ](https://github.com/GoranM/bdx):A cross-platform game engine for Blender 3D
 
 
 ---------------
