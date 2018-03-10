@@ -24,3 +24,5 @@ blender插件安装
 11. [chess_example](https://github.com/armory3d/chess_example):  chess game
 
 12. [OceanViz27](https://github.com/mikepan/OceanViz27)：UBC Fisheries Marinelife Visualization Tool 
+
+13. [YABEE](https://github.com/09th/YABEE):Export models from the Blender to Panda3D game engine
