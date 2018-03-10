@@ -106,6 +106,10 @@
 
 [blender-bge-leap](https://github.com/yanngdev/blender-bge-leap):Leap Motion in Blender BGE 
 
+[armorbench2](https://github.com/armory3d/armorbench2):FPS game benchmark 
+
+[armory_calibration](https://github.com/armory3d/armory_calibration):Calibrate Armory Output to Cycles 
+
 
 ---------------
 
