@@ -47,6 +47,10 @@
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
+[CWB3D](https://github.com/JabJabJab/CWB3D):Cubeworld-Blender-3D Toolkit. Contains anything from tools to work with the game's files / game, to blender rigs and files to use for general 3D purposes. 
+
+[BlenderZomboidIO](https://github.com/JabJabJab/BlenderZomboidIO):Import and Export scripts for Blender 2.75a 
+
 [blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
 
 [blender-smooth-slides](https://github.com/kiniou/blender-smooth-slides)A set of scripts and templates to transform regular OpenDocument Presentation into sexy presentation with Blender Game Engine.
