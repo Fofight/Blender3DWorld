@@ -33,3 +33,7 @@ blender插件安装
 
 16. [sintelgame](https://github.com/jonburesh/sintelgame):An open source adventure game created with Blender 
 
+17. [BGMC26-Solar-Sailing-Simulator](https://github.com/sdfgeoff/BGMC26-Solar-Sailing-Simulator):A game made in BGE that simulates solar sailing around a tiny star. 
+
+18. [geodesic-chess](https://github.com/sdfgeoff/geodesic-chess):Chess played on a spherical board 
+
