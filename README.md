@@ -38,6 +38,8 @@
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
 
+[BGERTPS](https://github.com/enjalot/BGERTPS):Blender modified to put the Real-Time Particle System library in the Game Engine
+
 [BGEAssets](https://github.com/ccbytes/BGEAssets):Collection of assets for Blender Game Engine 
 
 [myou-engine](https://github.com/myou-engine/myou-engine): Myou is a game engine for web, it features an editor based on Blender 
