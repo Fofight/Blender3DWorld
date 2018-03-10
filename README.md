@@ -46,6 +46,8 @@
 
 [Selective-Unhide](https://github.com/RayMairlot/Selective-Unhide): Replaces the default unhide operator in blender with a menu, allowing selective unhiding. 
 
+[Switch-Text-Block](https://github.com/RayMairlot/Switch-Text-Block):Addon for blender to change active text block with a shortcut 
+
 [Move-Render-Layers](https://github.com/RayMairlot/Move-Render-Layers):Allows re-arranging render layers in Blender 3D 
 
 [Timecode](https://github.com/RayMairlot/Timecode):Allows viewing and setting the current frame in Blender 3D via a timecode 
@@ -54,11 +56,28 @@
 
 [Animated-Render-Border](https://github.com/RayMairlot/Animated-Render-Border):Lets the border render box automatically track a mesh object or group of objects for an animation 
 
+[Restore-Render-Parts](https://github.com/RayMairlot/Restore-Render-Parts):Restores the old render option in blender of defining tiles by amount rather than pixels
+
+
 [Batch-Render-Tools](https://github.com/RayMairlot/Batch-Render-Tools):A series of tools to help with doing batch renders in Blender
 
 [YABEE](https://github.com/09th/YABEE)Export models from the Blender to Panda3D game engine
 
 [molecular-blender](https://github.com/smparker/molecular-blender):.xyz分子文件的导入插件
+
+[Equally-Space-Colour-Ramp-Handles](https://github.com/RayMairlot/Equally-Space-Colour-Ramp-Handles): A script to evenly distribute colour ramp handles in Blender
+
+[Slider-Puzle-Text-Tutorial](https://github.com/RayMairlot/Slider-Puzle-Text-Tutorial):Slider Puzzle for Blender 3D in Python 
+
+[Text-Editor-Bookmarks](https://github.com/RayMairlot/Text-Editor-Bookmarks):Add line number bookmarks to text files in Blender 3D to easily jump between sections of code 
+
+[Object-Draw-Type-Pie](https://github.com/RayMairlot/Object-Draw-Type-Pie):Adds a pie menu in blender for switching the selected objects from 'Solid' to 'Wire' draw types 
+
+[Scene-Nodes](https://github.com/RayMairlot/Scene-Nodes):Display a blender scene in terms of nodes
+
+[Swap-Objects](https://github.com/RayMairlot/Swap-Objects):A simple operator to swap 2 objects positions in Blender 3D
+
+[Quick-Mask](https://github.com/RayMairlot/Quick-Mask):Adds tools to Blender to create Mask modifiers quickly by selecting vertices in Edit Mode 
 
 [playcanvas-blender-tools](https://github.com/sdfgeoff/playcanvas-blender-tools):Tools for going from blender to playcanvas game engine 
 
