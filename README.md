@@ -110,6 +110,12 @@
 
 [armory_calibration](https://github.com/armory3d/armory_calibration):Calibrate Armory Output to Cycles 
 
+[blend](https://github.com/armory3d/blend):.blend file parser for Armory/Kha
+
+[armory_templates](https://github.com/armory3d/armory_templates):Starter scenes for building games 
+
+[chess_example](https://github.com/armory3d/chess_example)
+
 
 ---------------
 
@@ -146,6 +152,8 @@
 [google-expeditions-education-in-vr](https://www.blender.org/user-stories/google-expeditions-education-in-vr/)
 
 [blendervr](https://blendervr.limsi.fr/doku.php)
+
+
 
 ---------------------
 
