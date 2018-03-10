@@ -51,3 +51,9 @@
 [unity](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/)
 
 [Panda3D](http://www.panda3d.org/).[github](https://github.com/panda3d/panda3d)
+
+# 其他
+
+[godot](http://docs.godotengine.org/en/3.0/about/introduction.html)--[github](https://github.com/godotengine/godot-docs)
+
+
