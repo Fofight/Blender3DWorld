@@ -1,4 +1,5 @@
 [![相似项目](https://avatars1.githubusercontent.com/u/14325605?s=400&v=4)](https://github.com/alabd14313/awesome-BGE)
+[![相似项目](https://avatars1.githubusercontent.com/u/14325605?s=400&v=4)](https://github.com/RMKD/scripting-blender-game-engine)
 
 [English](https://docs.blender.org/manual/en/dev/game_engine/index.html)--[中文](https://docs.blender.org/manual/zh-hans/dev/game_engine/introduction.html)：blender游戏引擎官方教程
 
