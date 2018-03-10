@@ -19,8 +19,10 @@
 
 [10.OpenScene- Graph]()
 
+十大游戏引擎[link](http://blog.csdn.net/qq_17007915/article/details/77734324?locationNum=9&fps=1)
 
-使用python作为脚本的游戏引擎[link](http://book.51cto.com/art/201301/379016.htm)
+
+# 使用python作为脚本的游戏引擎[link](http://book.51cto.com/art/201301/379016.htm)
 
 [Blender](https://www.blender.org/)
 
@@ -38,8 +40,8 @@
 
 [Pygame](https://www.pygame.org/news)
 
+[Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home)
 
-十大游戏引擎[link](http://blog.csdn.net/qq_17007915/article/details/77734324?locationNum=9&fps=1)
 
 
 
