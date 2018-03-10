@@ -18,3 +18,5 @@ https://cgmasters.net/free-tutorials/python-scripting/
 
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):The Complete "Game Development with Blender" Book
+
+[upbge](https://doc.upbge.org/index.php)
