@@ -44,6 +44,8 @@
 
 [blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
 
+[Selective-Unhide](https://github.com/RayMairlot/Selective-Unhide): Replaces the default unhide operator in blender with a menu, allowing selective unhiding. 
+
 [Move-Render-Layers](https://github.com/RayMairlot/Move-Render-Layers):Allows re-arranging render layers in Blender 3D 
 
 [Timecode](https://github.com/RayMairlot/Timecode):Allows viewing and setting the current frame in Blender 3D via a timecode 
