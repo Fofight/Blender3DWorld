@@ -52,6 +52,8 @@
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
+[blender_chromium](https://github.com/armory3d/blender_chromium) Chromium embedded in Blender to utilize V8 & WebGL.
+
 [blender-graphs](https://github.com/patrickfuller/blender-graphs)
 
 [blender-image-pixels](https://github.com/patrickfuller/blender-image-pixels)
@@ -59,6 +61,7 @@
 [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport)
 
 [ARTKBlender](https://github.com/AshSidney/ARTKBlender)
+
 
 [blender_nif_plugin](https://github.com/niftools/blender_nif_plugin):The Blender NIF plugin enables Blender to import and export NIF files
 
@@ -89,6 +92,19 @@
 
 [zerogravity](0.2.0)            - A python3 polygon mesh to game render library using dokerized blender 3D creation software as backend.
 
+--------------
+
+##  gamEngine
+
+[armory_addons](https://github.com/armory3d/armory_addons):Optional Blender Scripts 
+
+[armorlogic](https://github.com/armory3d/armorlogic)
+
+[armory_props](https://github.com/armory3d/armory_props):Props crafted for Armory
+
+[armory-leap](https://github.com/yanngdev/armory-leap:Leap Motion in Blender + Armory 3D
+
+[blender-bge-leap](https://github.com/yanngdev/blender-bge-leap):Leap Motion in Blender BGE 
 
 
 ---------------
