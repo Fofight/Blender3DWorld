@@ -13,3 +13,5 @@ https://cgmasters.net/free-tutorials/bow-and-arrow-part-2/
 https://cgmasters.net/free-tutorials/environment-animation-in-blender-2-5/
 
 https://cgmasters.net/free-tutorials/python-scripting/
+
+[armory](https://github.com/armory3d/armory):3D Game Engine for Blender
