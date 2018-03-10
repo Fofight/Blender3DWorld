@@ -15,3 +15,6 @@ https://cgmasters.net/free-tutorials/environment-animation-in-blender-2-5/
 https://cgmasters.net/free-tutorials/python-scripting/
 
 [armory](https://github.com/armory3d/armory):3D Game Engine for Blender
+
+
+[GameEngineBook](https://github.com/mikepan/GameEngineBook):The Complete "Game Development with Blender" Book
