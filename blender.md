@@ -25,6 +25,6 @@ blender插件安装
 
 12. [OceanViz27](https://github.com/mikepan/OceanViz27)：UBC Fisheries Marinelife Visualization Tool 
 
-13. Blender& Panda3D: [YABEE](https://github.com/09th/YABEE),[Blender4Panda-plugin](https://github.com/09th/Blender4Panda-plugin),[Blender4Panda-loader](https://github.com/09th/Blender4Panda-loader),[]()
+13. Blender& Panda3D: [YABEE](https://github.com/09th/YABEE),[Blender4Panda-plugin](https://github.com/09th/Blender4Panda-plugin),[Blender4Panda-loader](https://github.com/09th/Blender4Panda-loader),[BlenderPanda](https://github.com/Moguri/BlenderPanda),[]()
 
 14. [barnstormer](https://github.com/Moguri/barnstormer):A BGE game for BGMC 9 
