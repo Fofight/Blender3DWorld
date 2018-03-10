@@ -63,6 +63,8 @@
 
 [Selective-Unhide](https://github.com/RayMairlot/Selective-Unhide): Replaces the default unhide operator in blender with a menu, allowing selective unhiding. 
 
+[scripting-blender-game-engine](https://github.com/RMKD/scripting-blender-game-engine):A starter kit for learning to do things in blender game engine with code.
+
 [Unidesence](https://github.com/ShawnHillJ/Unidesence):A 3D open-world survival game in Blender + Python 
 
 [Switch-Text-Block](https://github.com/RayMairlot/Switch-Text-Block):Addon for blender to change active text block with a shortcut 
