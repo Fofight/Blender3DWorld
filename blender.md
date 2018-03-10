@@ -41,3 +41,6 @@ blender插件安装
 
 20. [Horror_videogame](https://github.com/jgascon/Horror_videogame):It is an horror game done in Blender Game Engine 
 
+21. [myou-engine](https://github.com/myou-engine/myou-engine): Myou is a game engine for web, it features an editor based on Blender 
+
+
