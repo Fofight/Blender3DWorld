@@ -289,6 +289,6 @@ https://github.com/tobspr/RenderPipeline-Samples
 
 https://github.com/wolfgangp/panda3d_bullet_samples
 
-[![相似项目](https://github.com/alabd14313/awesome-BGE/blob/master/Images/Besmellah.png?raw=true)](https://github.com/alabd14313/awesome-BGE/blob/master/README.md)
+[![相似项目](https://github.com/alabd14313/awesome-BGE/blob/master/Images/Besmellah.png?raw=true)](https://github.com/alabd14313/awesome-BGE/)
 
 
