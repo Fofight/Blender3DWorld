@@ -25,4 +25,4 @@ blender插件安装
 
 12. [OceanViz27](https://github.com/mikepan/OceanViz27)：UBC Fisheries Marinelife Visualization Tool 
 
-13. [YABEE](https://github.com/09th/YABEE):Export models from the Blender to Panda3D game engine
+13. Blender& Panda3D: [YABEE](https://github.com/09th/YABEE),[Blender4Panda-plugin](https://github.com/09th/Blender4Panda-plugin),[Blender4Panda-loader](https://github.com/09th/Blender4Panda-loader),[]()
