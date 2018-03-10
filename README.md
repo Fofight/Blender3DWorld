@@ -54,6 +54,8 @@
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
+[Blender-Destructability-Editor](https://github.com/scorpion81/Blender-Destructability-Editor):Define how dynamic destruction of blender objects is handled by the game engine 
+
 [bge-networking](https://github.com/Moguri/bge-networking):A repo to test out a Python module for BGE networking. 
 
 [conceptparticles](https://github.com/Kupoman/conceptparticles):A demonstration of how particles can be done in the Blender Game Engine using PyOpenGL
@@ -80,11 +82,25 @@
 
 [sprycle](https://github.com/GoranM/sprycle): A sprite animation cycle utility 
 
+[blender-fracture](https://github.com/scorpion81/blender-fracture)
+
+[blender-fracture-helper](https://github.com/scorpion81/blender-fracture-helper)
+
+[blender-translations](https://github.com/scorpion81/blender-translations):Github mirror of blender-translations repo for easier handling 
+
+[blender-addons-contrib](https://github.com/scorpion81/blender-addons-contrib):ithub mirror of blender-addons-contrib repo for easier handling 
+
+[Blender-Destructability-Editor](https://github.com/scorpion81/Blender-Destructability-Editor):Define how dynamic destruction of blender objects is handled by the game engine 
+
+[blender-addons](https://github.com/scorpion81/blender-addons):Github mirror of blender-addons repo for easier handling 
+
 [BlenderRealtimeEngineAddon](https://github.com/Kupoman/BlenderRealtimeEngineAddon):An addon to allow external real time engines (e.g. game engines) to use Blender as an editor and allow for closer integration. 
 
 [Moguri](https://github.com/Moguri/blender): Moguri Blender development work. 
 
 [blendergltf](https://github.com/Kupoman/blendergltf):A glTF exporter for Blender 
+
+[blender-voro](https://github.com/scorpion81/blender-voro):Blender with Voronoi Fracture modifier patch 
 
 
 [BlenderPanda](https://github.com/Moguri/BlenderPanda):Blender addon for integrating Panda3D 
