@@ -9,7 +9,7 @@ blender插件安装
 
 4. [sapling tree gen](https://github.com/abpy/improved-sapling-tree-generator)：一个树生成插件，支持骨骼动画(自带，需要开启)
 
-5. [quicktree](https://github.com/wolfgangp/quicktree)：
+5. [quicktree](https://github.com/wolfgangp/quicktree)：Blender add-on on top of the Sapling Tree Gen add-on. Quickly create random trees and export for Panda3D. 
 
 6. [ivyGen](https://github.com/ivygen/ivygen)：一个爬藤类生成插件[自带，需要开启]
 
@@ -18,3 +18,5 @@ blender插件安装
 8. [highspeedracer](https://github.com/eliemichel/highspeedracer)：Online racing game using Blender Game Engine 
 
 9. [Yo Franke](https://apricot.blender.org/)：blender game
+
+10. [blender_chromium](https://github.com/armory3d/blender_chromium) Chromium embedded in Blender to utilize V8 & WebGL.
