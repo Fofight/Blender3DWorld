@@ -116,6 +116,8 @@
 
 [chess_example](https://github.com/armory3d/chess_example)
 
+[armorpaint](https://github.com/armory3d/armorpaint):3D PBR Texture Painting
+
 
 ---------------
 
