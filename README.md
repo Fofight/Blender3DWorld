@@ -52,6 +52,8 @@
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
 
+[testfiles](https://github.com/UPBGE/testfiles)
+
 [bdx-test-game](https://github.com/GoranM/bdx-test-game):A small/simple game developed in a BDX tutorial series. 
 
 [glrawd](https://github.com/GoranM/glrawd):A Blender scene exporter, which provides geometry data for OpenGL applications, in a convenient binary format. 
@@ -67,6 +69,8 @@
 [blender_chromium](https://github.com/armory3d/blender_chromium) Chromium embedded in Blender to utilize V8 & WebGL.
 
 [blender-graphs](https://github.com/patrickfuller/blender-graphs)
+
+[buildbot](https://github.com/UPBGE/buildbot):Buildbot scripts and config. 
 
 [blender-image-pixels](https://github.com/patrickfuller/blender-image-pixels)
 
@@ -133,6 +137,8 @@
 [bdx ](https://github.com/GoranM/bdx):A cross-platform game engine for Blender 3D
 
 [UPBGE](https://github.com/UPBGE/blender):Uchronia Project Blender Game Engine fork of Blender Game Engine
+
+[DemoTuto](https://github.com/UPBGE/DemoTuto):A repository stocking demos and tutorials for the UPBGE 
 
 
 ---------------
