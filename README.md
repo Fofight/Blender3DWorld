@@ -59,6 +59,8 @@
 
 [Selective-Unhide](https://github.com/RayMairlot/Selective-Unhide): Replaces the default unhide operator in blender with a menu, allowing selective unhiding. 
 
+[Unidesence](https://github.com/ShawnHillJ/Unidesence):A 3D open-world survival game in Blender + Python 
+
 [Switch-Text-Block](https://github.com/RayMairlot/Switch-Text-Block):Addon for blender to change active text block with a shortcut 
 
 [Move-Render-Layers](https://github.com/RayMairlot/Move-Render-Layers):Allows re-arranging render layers in Blender 3D 
