@@ -22,3 +22,5 @@ blender插件安装
 10. [blender_chromium](https://github.com/armory3d/blender_chromium): Chromium embedded in Blender to utilize V8 & WebGL.
 
 11. [chess_example](https://github.com/armory3d/chess_example):  chess game
+
+12. [OceanViz27](https://github.com/mikepan/OceanViz27)：UBC Fisheries Marinelife Visualization Tool 
