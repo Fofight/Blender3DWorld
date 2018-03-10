@@ -38,11 +38,16 @@
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
 
+[myou-engine](https://github.com/myou-engine/myou-engine): Myou is a game engine for web, it features an editor based on Blender 
+
+
 [blender-chemicals](https://github.com/patrickfuller/blender-chemicals):- Imports chemicals into blender with open babel.
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
 [blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
+
+[myou-blender-add-on](https://github.com/myou-engine/myou-blender-add-on):Myou Blender Plugin allows you to export Blender scenes, meshes, materials (GLSL), textures and animations to be used in your Myou Engine project. 
 
 [BlenderCave](https://github.com/jgascon/BlenderCave): Blender Cave are some extensions to run Blender Game Engine in a multiscreen system (CAVE) 
 
