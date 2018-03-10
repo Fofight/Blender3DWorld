@@ -57,7 +57,9 @@
 
 [lol-twisted3](https://github.com/sergeLabo/lol-twisted3):Land of Love avec twisted en python3 
 
-[bgb](https://github.com/sergeLabo/bgb):Blender Game Base 
+[bgb](https://github.com/sergeLabo/bgb):Blender Game Base
+
+[Bit](https://github.com/sergeLabo/Bit):WikikIRC dans Blender 
 
 [Buggy]https://github.com/sergeLabo/Buggy):Un jeu de voitures très réaliste, avec une tablette ou un téléphone pour volant. 
 
@@ -65,6 +67,12 @@
 
 
 [meteo](https://github.com/sergeLabo/meteo):Recherche des mauvaises prévisions meteo pour la ville de Gotham, interprétation délirante dans le Blender Game Engine. 
+
+[dof](https://github.com/sergeLabo/dof):Depth of Field (dof) in Blender Game Engine test
+
+[blenderOSC](https://github.com/sergeLabo/blenderOSC):Send and receive OSC message in Blender Game Engine with python 3.4, easily, with examples.
+
+[bookfighting](https://github.com/sergeLabo/bookfighting):Jeu de bookfighting au pays Dogon 
 
 [EnjaParticles](https://github.com/enjalot/EnjaParticles):Particle System expirementation Sandbox: OpenCL/OpenGL on PC and Android OpenGL in C with JNI 
 
