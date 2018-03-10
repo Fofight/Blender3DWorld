@@ -47,6 +47,8 @@
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
+[EnjaParticles](https://github.com/enjalot/EnjaParticles):Particle System expirementation Sandbox: OpenCL/OpenGL on PC and Android OpenGL in C with JNI 
+
 [CWB3D](https://github.com/JabJabJab/CWB3D):Cubeworld-Blender-3D Toolkit. Contains anything from tools to work with the game's files / game, to blender rigs and files to use for general 3D purposes. 
 
 [BlenderZomboidIO](https://github.com/JabJabJab/BlenderZomboidIO):Import and Export scripts for Blender 2.75a 
