@@ -44,6 +44,8 @@
 
 [blmol](https://github.com/scotthartley/blmol):导入分子几何形状的脚本
 
+[YABEE](https://github.com/09th/YABEE)Export models from the Blender to Panda3D game engine
+
 [molecular-blender](https://github.com/smparker/molecular-blender):.xyz分子文件的导入插件
 
 [blender-python-setup](https://github.com/lmmx/devnotes/wiki/Blender-Python-setup)blender和python之间的设置
@@ -51,6 +53,10 @@
 [blender-file](https://github.com/dfelinto/blender-file):Blender File
 
 [blender-vr](https://github.com/dfelinto/blender-vr)
+
+[Blender4Panda-plugin](https://github.com/09th/Blender4Panda-plugin):Plugin for Blender, allowing to edit/export scenes for Panda3D 
+
+[Blender4Panda-loader](https://github.com/09th/Blender4Panda-loader):Load scene into Panda3D previously exported from Blender 
 
 [testfiles](https://github.com/UPBGE/testfiles)
 
