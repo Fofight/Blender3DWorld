@@ -49,6 +49,23 @@
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
+[alpha-blending](https://github.com/sergeLabo/alpha-blending):Composition, déformation, trituration, motion, diminution, augmentation d'images avec un canal alpha en temps réel à 60 fps 
+
+[mylabotools](https://github.com/sergeLabo/mylabotools):Mes outils python de tous les jours 
+
+[blendcontrol](https://github.com/sergeLabo/blendcontrol):Contrôle depuis un Android dégooglisé 
+
+[lol-twisted3](https://github.com/sergeLabo/lol-twisted3):Land of Love avec twisted en python3 
+
+[bgb](https://github.com/sergeLabo/bgb):Blender Game Base 
+
+[Buggy]https://github.com/sergeLabo/Buggy):Un jeu de voitures très réaliste, avec une tablette ou un téléphone pour volant. 
+
+[mpff](https://github.com/sergeLabo/mpff):Pong en réseau local jusqu'à 10 joueurs. Réalisé avec blender et python 3.4
+
+
+[meteo](https://github.com/sergeLabo/meteo):Recherche des mauvaises prévisions meteo pour la ville de Gotham, interprétation délirante dans le Blender Game Engine. 
+
 [EnjaParticles](https://github.com/enjalot/EnjaParticles):Particle System expirementation Sandbox: OpenCL/OpenGL on PC and Android OpenGL in C with JNI 
 
 [CWB3D](https://github.com/JabJabJab/CWB3D):Cubeworld-Blender-3D Toolkit. Contains anything from tools to work with the game's files / game, to blender rigs and files to use for general 3D purposes. 
