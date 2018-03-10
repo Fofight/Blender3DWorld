@@ -45,4 +45,6 @@ blender插件安装
 
 22. [Unidesence](https://github.com/ShawnHillJ/Unidesence):A 3D open-world survival game in Blender + Python 
 
+23. [medieval-assets](https://github.com/moyicat/medieval-assets):A modular medieval game asset pack in Blender 
+
 
