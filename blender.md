@@ -59,11 +59,7 @@ blender插件安装
 
 29. [cork-on-blender](https://github.com/dfelinto/cork-on-blender):This addon was created in 2015 to help planning and executing osteotomy surgery procedures. Since then it was used in a series of projects involving orthognathic surgery simulations, and human and veterinarian prosthesis modelling.
 
-[source](https://github.com/ThisWeekInBlenderDev/source):Source Files for Weekly Blender Development report
-
-[ThisWeekInBlenderDev.github.io](https://github.com/ThisWeekInBlenderDev/ThisWeekInBlenderDev.github.io): Generated Content for Weekly Blender Development News
-
-20. [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport): Addon to bring virtual reality devices to the Blender viewport 
+30. [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport): Addon to bring virtual reality devices to the Blender viewport 
 
 
 
