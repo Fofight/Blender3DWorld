@@ -38,6 +38,8 @@
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
 
+[blender_io_xbuf](https://github.com/xbuf/blender_io_xbuf):A blender addon to allow an external xbuf compatible renderer (like a game engine) to be used in blender viewport
+
 [BGERTPS](https://github.com/enjalot/BGERTPS):Blender modified to put the Real-Time Particle System library in the Game Engine
 
 [BGEAssets](https://github.com/ccbytes/BGEAssets):Collection of assets for Blender Game Engine 
@@ -47,7 +49,13 @@
 
 [blender-chemicals](https://github.com/patrickfuller/blender-chemicals):- Imports chemicals into blender with open babel.
 
+[unipg-progettorealtavirtuale](https://github.com/eFFeeMMe/unipg-progettorealtavirtuale)
+
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
+
+[bge-traffic](https://github.com/eFFeeMMe/bge-traffic):A metropolis' traffic simulation in Blender's Game Engine 
+
+[xbuf](https://github.com/xbuf/xbuf): A developper friendly game exchange format for 3d data
 
 [alpha-blending](https://github.com/sergeLabo/alpha-blending):Composition, déformation, trituration, motion, diminution, augmentation d'images avec un canal alpha en temps réel à 60 fps 
 
