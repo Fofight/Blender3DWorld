@@ -53,21 +53,36 @@
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
+[blender-file](https://github.com/dfelinto/blender-file):Module to inspect a .blend file from Python.
+
+[immediate-mode-query](https://github.com/dfelinto/immediate-mode-query):script to query immediate-mode calls in Blender
+
 [ARTKBlender](https://github.com/AshSidney/ARTKBlender):Python interface for ARToolKit to make it usable in Blender (+ Game Engine) 
 
 [bge-traffic](https://github.com/eFFeeMMe/bge-traffic):A metropolis' traffic simulation in Blender's Game Engine 
 
 [xbuf](https://github.com/xbuf/xbuf): A developper friendly game exchange format for 3d data
 
+[blender-cloud-addon](https://github.com/dfelinto/blender-cloud-addon)
+
+[blender-id](https://github.com/dfelinto/blender-id):clone of git@git.blender.org:blender-id.git 
+
 [alpha-blending](https://github.com/sergeLabo/alpha-blending):Composition, déformation, trituration, motion, diminution, augmentation d'images avec un canal alpha en temps réel à 60 fps 
 
 [mylabotools](https://github.com/sergeLabo/mylabotools):Mes outils python de tous les jours 
+
+[blender-crawler](https://github.com/dfelinto/blender-crawler)
 
 [blendcontrol](https://github.com/sergeLabo/blendcontrol):Contrôle depuis un Android dégooglisé 
 
 [lol-twisted3](https://github.com/sergeLabo/lol-twisted3):Land of Love avec twisted en python3 
 
 [bgb](https://github.com/sergeLabo/bgb):Blender Game Base
+
+
+[source](https://github.com/ThisWeekInBlenderDev/source):Source Files for Weekly Blender Development report
+
+[ThisWeekInBlenderDev.github.io](https://github.com/ThisWeekInBlenderDev/ThisWeekInBlenderDev.github.io): Generated Content for Weekly Blender Development News
 
 [opengl-sandbox](https://github.com/dfelinto/opengl-sandbox):My own sandbox for opengl debugging 
 
@@ -87,6 +102,20 @@
 [bge_cantor_avatar](https://github.com/PyrApple/bge_cantor_avatar):Blender Game Engine singing avatar, animated based on vowels sent by Max/MSP (to be used with the Cantor Digitalis) 
 
 [Bit](https://github.com/sergeLabo/Bit):WikikIRC dans Blender 
+
+[docs.blender.org](https://github.com/armadillica/docs.blender.org):Landing page for Blender Documentation 
+
+[amaranth](https://github.com/venomgfx/amaranth):Repository for Amaranth, Blender Addon and Theme
+
+[flamenco-worker-python](https://github.com/armadillica/flamenco-worker-python):This is a mirror of the real repository
+
+[flamenco-manager](https://github.com/armadillica/flamenco-manager)
+
+[dillo-theme-blender-today](https://github.com/armadillica/dillo-theme-blender-today):Dillo theme for http://blender.today
+
+[dillo-theme-blender-network](https://github.com/armadillica/dillo-theme-blender-network):Dillo theme for Blender Network Forums 
+
+[blender-coders](https://github.com/armadillica/blender-coders):Titmetable generator for Blender Coders meetings
 
 [Buggy]https://github.com/sergeLabo/Buggy):Un jeu de voitures très réaliste, avec une tablette ou un téléphone pour volant. 
 
