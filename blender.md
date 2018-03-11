@@ -49,7 +49,7 @@
 
 24. [mpff](https://github.com/sergeLabo/mpff):Pong en réseau local jusqu'à 10 joueurs. Réalisé avec blender et python 3.4
 
-25. [Buggy]https://github.com/sergeLabo/Buggy):Un jeu de voitures très réaliste, avec une tablette ou un téléphone pour volant.
+25. [Buggy]（https://github.com/sergeLabo/Buggy):Un jeu de voitures très réaliste, avec une tablette ou un téléphone pour volant.
 
 26. [bge-traffic](https://github.com/eFFeeMMe/bge-traffic):A metropolis' traffic simulation in Blender's Game Engine 
 
