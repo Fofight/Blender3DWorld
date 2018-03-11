@@ -53,4 +53,12 @@ blender插件安装
 
 26. [bge-traffic](https://github.com/eFFeeMMe/bge-traffic):A metropolis' traffic simulation in Blender's Game Engine 
 
+27. [bge-audio-visualizer](https://github.com/PyrApple/bge-audio-visualizer):Audio visualizer in Blender Game Engine 
+
+28. [blender-ui](https://github.com/venomgfx/blender-ui):Blender mockups in web format 
+
+29. [cork-on-blender](https://github.com/dfelinto/cork-on-blender):This addon was created in 2015 to help planning and executing osteotomy surgery procedures. Since then it was used in a series of projects involving orthognathic surgery simulations, and human and veterinarian prosthesis modelling.
+
+
+
 
