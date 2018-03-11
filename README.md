@@ -53,6 +53,8 @@
 
 [GameEngineBook](https://github.com/mikepan/GameEngineBook):游戏开发参考书
 
+[ARTKBlender](https://github.com/AshSidney/ARTKBlender):Python interface for ARToolKit to make it usable in Blender (+ Game Engine) 
+
 [bge-traffic](https://github.com/eFFeeMMe/bge-traffic):A metropolis' traffic simulation in Blender's Game Engine 
 
 [xbuf](https://github.com/xbuf/xbuf): A developper friendly game exchange format for 3d data
@@ -66,6 +68,23 @@
 [lol-twisted3](https://github.com/sergeLabo/lol-twisted3):Land of Love avec twisted en python3 
 
 [bgb](https://github.com/sergeLabo/bgb):Blender Game Base
+
+[opengl-sandbox](https://github.com/dfelinto/opengl-sandbox):My own sandbox for opengl debugging 
+
+
+29. [cork-on-blender](https://github.com/dfelinto/cork-on-blender):This addon was created in 2015 to help planning and executing osteotomy surgery procedures. Since then it was used in a series of projects involving orthognathic surgery simulations, and human and veterinarian prosthesis modelling.
+
+[render_cube_map](https://github.com/dfelinto/render_cube_map):Blender Addon to Render Cube Map
+
+[blender-ui](https://github.com/venomgfx/blender-ui):Blender mockups in web format 
+
+[blender-maker](https://github.com/dfelinto/blender-maker):Script to make blender 
+
+[pillar](https://github.com/armadillica/pillar):This is the latest iteration on the Attract project. We are building a unified framework called Pillar. Pillar will combine Blender Cloud and Attract. You can see Pillar in action on the Blender Cloud.
+
+[io_export_catt](https://github.com/PyrApple/io_export_catt):Catt-Acoustic Export Add-on for Blender 
+
+[bge_cantor_avatar](https://github.com/PyrApple/bge_cantor_avatar):Blender Game Engine singing avatar, animated based on vowels sent by Max/MSP (to be used with the Cantor Digitalis) 
 
 [Bit](https://github.com/sergeLabo/Bit):WikikIRC dans Blender 
 
