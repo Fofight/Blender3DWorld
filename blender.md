@@ -1,7 +1,7 @@
 
 ##### 它山之石，可以工玉。
 
-1. 安装.pdb文件扩展[link](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/PDB)：PDB文件对于描述蛋白质等复杂分子模型的描述有着得天独厚的优势
+1. 安装.pdb文件扩展[link](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/PDB)：PDB文件对于描述蛋白质等复杂分子模型的描述有着得天独厚的优势 |  [Atomic Blender - Utilities](https://wiki.blender.org/index.php/Extensions%3A2.6/Py/Scripts/Import-Export/Atomic_Blender_Panel):可以调整分子式的三维效果
 
 2. [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator)：能够随机生成太空船3D模型，对于实现用脚本实现展示具有重要意义。
 
