@@ -1,3 +1,5 @@
+技巧 https://www.douban.com/note/609156522/
+
 PDB(Protein Data Bank)是一种标准文件格式, 其中包含原子的坐标等信息
 
 PDB格式以文本格式给出信息, 每一行信息称为一个 记录(record). 一个PDB文件通常包括很多不同类型的记录, 它们以特定的顺序排列, 用以描述结构
@@ -49,4 +51,6 @@ Chimera
 Diamond-
 
 [maya扩展](http://www.molecularmovies.com/toolkit/)
+
+
 
