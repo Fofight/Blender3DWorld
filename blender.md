@@ -63,6 +63,8 @@
 
 31. [blender-html5-animations](https://github.com/KoltesDigital/blender-html5-animations):Export animation curves from Blender and use them for the web
 
+32. [makehuman](https://github.com/makehumancommunity/makehuman):一款开源的人体模型制作软件
+
 #### 磨刀不误砍柴工
 
 ###### Github topic
