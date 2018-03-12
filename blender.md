@@ -61,6 +61,8 @@
 
 30. [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport): Addon to bring virtual reality devices to the Blender viewport 
 
+31. [blender-html5-animations](https://github.com/KoltesDigital/blender-html5-animations):Export animation curves from Blender and use them for the web
+
 #### 磨刀不误砍柴工
 
 ###### Github topic
