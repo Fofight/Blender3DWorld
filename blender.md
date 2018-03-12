@@ -65,6 +65,8 @@
 
 32. [makehuman](https://github.com/makehumancommunity/makehuman):一款开源的人体模型制作软件
 
+33. [blender-osm](https://github.com/vvoovv/blender-osm/):三维城市
+
 #### 磨刀不误砍柴工
 
 ###### Github topic
