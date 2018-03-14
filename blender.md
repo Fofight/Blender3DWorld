@@ -60,7 +60,7 @@
 
 29. [cork-on-blender](https://github.com/dfelinto/cork-on-blender):This addon was created in 2015 to help planning and executing osteotomy surgery procedures. Since then it was used in a series of projects involving orthognathic surgery simulations, and human and veterinarian prosthesis modelling.
 
-30. [Blendervr](https://github.com/BlenderVR):official .....[virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport): Addon to bring virtual reality devices to the Blender viewport 
+30. [Blendervr](https://github.com/BlenderVR):official 
 
 31. [blender-html5-animations](https://github.com/KoltesDigital/blender-html5-animations):Export animation curves from Blender and use them for the web
 
