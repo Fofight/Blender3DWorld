@@ -17,7 +17,7 @@
 
 8. [highspeedracer](https://github.com/eliemichel/highspeedracer)：Online racing game using Blender Game Engine 
 
-9. [Yo Franke](https://apricot.blender.org/)：blender game
+9. [Yo Franke](https://apricot.blender.org/)_[github](https://github.com/BlenderVR/yofrankie)：blender game
 
 10. [blender_chromium](https://github.com/armory3d/blender_chromium): Chromium embedded in Blender to utilize V8 & WebGL.
 
@@ -43,6 +43,7 @@
 
 21. [myou-engine](https://github.com/myou-engine/myou-engine): Myou is a game engine for web, it features an editor based on Blender 
 
+
 22. [Unidesence](https://github.com/ShawnHillJ/Unidesence):A 3D open-world survival game in Blender + Python 
 
 23. [medieval-assets](https://github.com/moyicat/medieval-assets):A modular medieval game asset pack in Blender 
@@ -59,7 +60,7 @@
 
 29. [cork-on-blender](https://github.com/dfelinto/cork-on-blender):This addon was created in 2015 to help planning and executing osteotomy surgery procedures. Since then it was used in a series of projects involving orthognathic surgery simulations, and human and veterinarian prosthesis modelling.
 
-30. [virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport): Addon to bring virtual reality devices to the Blender viewport 
+30. [Blendervr](https://github.com/BlenderVR):official .....[virtual_reality_viewport](https://github.com/dfelinto/virtual_reality_viewport): Addon to bring virtual reality devices to the Blender viewport 
 
 31. [blender-html5-animations](https://github.com/KoltesDigital/blender-html5-animations):Export animation curves from Blender and use them for the web
 
