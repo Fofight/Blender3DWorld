@@ -9,7 +9,7 @@
 
 # awesome
 
-[]()
+[awesome-BGE](https://github.com/alabd14313/awesome-BGE):A collection of blender and blender game engine resources 
 
 
 ----------------------
@@ -86,6 +86,10 @@
 [procedural_city_generation](https://github.com/josauder/procedural_city_generation):生成城市的程序
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
+
+[Project-Awesomeness](https://github.com/Jason365/Project-Awesomeness):Made with Blende
+
+[Dannyboy-Blender-Addons](https://github.com/Dannyboy271/Dannyboy-Blender-Addons)
 
 [BGEOnline](https://github.com/YoloChallenger/BGEOnline):Blender Game Engine + Socket + Threading = Awesome online game
 
