@@ -7,6 +7,13 @@
 
 ----------------------
 
+# awesome
+
+[]()
+
+
+----------------------
+
 ## Tutorial
 [wiki.blender](https://wiki.blender.org/)、
 [Manual](http://wiki.blender.org/index.php/Doc:2.6/Manual)、
@@ -79,6 +86,12 @@
 [procedural_city_generation](https://github.com/josauder/procedural_city_generation):生成城市的程序
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
+
+[BGEOnline](https://github.com/YoloChallenger/BGEOnline):Blender Game Engine + Socket + Threading = Awesome online game
+
+[shapedo-blender-plugin](https://github.com/shapedo/shapedo-blender-plugin):A blender plugin to work on projects on ShapeDo from within blender 
+
+[blender-gcode-reader](https://github.com/zignig/blender-gcode-reader):Import Reprap Gcode files into blender 
 
 [blender_io_xbuf](https://github.com/xbuf/blender_io_xbuf):A blender addon to allow an external xbuf compatible renderer (like a game engine) to be used in blender viewport
 
