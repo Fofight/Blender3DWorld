@@ -36,7 +36,7 @@ blender中import pdb 文件功能插件网址[Import-Export/PDB](https://wiki.bl
 
 ##### 2.知己知彼，百战不殆
 
-通过分子结构画3D模型的软件
+[通过分子结构画3D模型的软件](http://www.rcsb.org/pdb/static.do?p=software/software_links/molecular_graphics.html)
 
 Chem 3D
 
