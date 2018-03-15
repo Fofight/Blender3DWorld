@@ -70,7 +70,7 @@
 
 34. [mesh_tiny_cad](https://github.com/zeffii/mesh_tiny_cad):a tiny set of unmissable CAD functions ( VTX, XALL ...) for Blender
 
-35. [mdtraj](https://github.com/mdtraj/mdtraj):是分子动力学模拟的一个python包,其能够进行不同模拟软件的轨迹转换,常规计算,分析等等一体化
+35. [blender_mdtraj_importer](https://github.com/breuerss/blender_mdtraj_importer):Blender addon that imports MD trajectories supported by the mdtraj project-[mdtraj](https://github.com/mdtraj/mdtraj):是分子动力学模拟的一个python包,其能够进行不同模拟软件的轨迹转换,常规计算,分析等等一体化
 
 #### 磨刀不误砍柴工
 
