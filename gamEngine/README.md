@@ -22,3 +22,5 @@ https://cgmasters.net/free-tutorials/python-scripting/
 [upbge](https://doc.upbge.org/index.php)
 
 [game-engines](https://github.com/collections/game-engines)
+
+[magictools](https://github.com/ellisonleao/magictools):A list of Game Development resources to make magic happen
