@@ -68,6 +68,8 @@
 
 33. [blender-osm](https://github.com/vvoovv/blender-osm/):三维城市
 
+34. [mesh_tiny_cad](https://github.com/zeffii/mesh_tiny_cad):a tiny set of unmissable CAD functions ( VTX, XALL ...) for Blender
+
 #### 磨刀不误砍柴工
 
 ###### Github topic
