@@ -74,6 +74,8 @@
 
 35. [blender_mdtraj_importer](https://github.com/breuerss/blender_mdtraj_importer):Blender addon that imports MD trajectories supported by the mdtraj project-[mdtraj](https://github.com/mdtraj/mdtraj):是分子动力学模拟的一个python包,其能够进行不同模拟软件的轨迹转换,常规计算,分析等等一体化
 
+36. [Electron-Orbitals-Blender-3D](https://github.com/Niuskir/Electron-Orbitals-Blender-3D):电子云轨道
+
 #### 磨刀不误砍柴工
 
 ###### Github topic
