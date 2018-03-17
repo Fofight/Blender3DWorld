@@ -87,9 +87,13 @@
 
 [BlenderGIS](https://github.com/domlysz/BlenderGIS):地图GIS
 
+[molecule_importe](https://github.com/floaltvater/molecule_importer):Addon for Blender to work with molecules.
+
 [Project-Awesomeness](https://github.com/Jason365/Project-Awesomeness):Made with Blende
 
 [Dannyboy-Blender-Addons](https://github.com/Dannyboy271/Dannyboy-Blender-Addons)
+
+[molblend](https://github.com/floaltvater/molblend):Addon for Blender to import and work with molecules and other atomic structures 
 
 [BGEOnline](https://github.com/YoloChallenger/BGEOnline):Blender Game Engine + Socket + Threading = Awesome online game
 
