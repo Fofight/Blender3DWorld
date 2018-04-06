@@ -9,7 +9,7 @@
 
 3. [BlenderGIS](https://github.com/domlysz/BlenderGIS)：在blender上实现GIS
 
-4. [sapling tree gen](https://github.com/abpy/improved-sapling-tree-generator)：一个树生成插件，支持骨骼动画(自带，需要开启)
+4. [sapling tree gen](https://github.com/abpy/improved-sapling-tree-generator)/[tree-gen](https://github.com/friggog/tree-gen)/[Planes_from_Images](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Planes_from_Images)：一个树生成插件，支持骨骼动画(自带，需要开启)
 
 5. [quicktree](https://github.com/wolfgangp/quicktree)：Blender add-on on top of the Sapling Tree Gen add-on. Quickly create random trees and export for Panda3D. 
 
