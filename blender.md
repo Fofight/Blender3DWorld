@@ -68,7 +68,7 @@
 
 32. [makehuman](https://github.com/makehumancommunity/makehuman):一款开源的人体模型制作软件
 
-33. [blender-osm](https://github.com/vvoovv/blender-osm/):三维城市
+33. [blender-osm](https://github.com/vvoovv/blender-osm/)——[fork](https://github.com/gtoonstra/blender-geo)——[fork](https://github.com/gtoonstra/blender-geo):三维城市
 
 34. [mesh_tiny_cad](https://github.com/zeffii/mesh_tiny_cad):a tiny set of unmissable CAD functions ( VTX, XALL ...) for Blender
 
