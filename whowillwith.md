@@ -17,3 +17,5 @@ https://github.com/RMKD/scripting-blender-game-engine
 https://github.com/satishgoda/iluvblender
 
 https://github.com/KarelZe/Blender
+
+https://github.com/CompleteBlenderCreator
