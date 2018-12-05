@@ -79,6 +79,8 @@
 
 [panda3d](https://github.com/panda3d/panda3d)
 
+[blender-robot-arm-simulator](https://github.com/aleechou/blender-robot-arm-simulator)
+
 [id-Software](https://github.com/id-Software):历来各个游戏的完整代码
 
 [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator):随机生成3D飞船模型的脚本
