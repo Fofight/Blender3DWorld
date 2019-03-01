@@ -1,4 +1,4 @@
-[![blender](https://avatars3.githubusercontent.com/u/4444842?s=460&v=4)](https://www.blender.org)
+[![blender](https://avatars2.githubusercontent.com/u/38465650?s=460&v=4)](https://www.blender.org)
 [<img src="https://avatars2.githubusercontent.com/u/590956?v=3&s=200"  />](http://www.panda3d.org/)
 
 # Blender3DWorld
